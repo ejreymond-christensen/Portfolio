@@ -1,0 +1,65 @@
+html{
+    background-image: url("../imgs/abbie-bernet-326185.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin:0;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.titleImg{
+  margin-bottom: -5px;
+}
+
+#elliot{
+  height: 100%;
+  width: 100%;
+}
+
+.arc{
+  background-image: url("../imgs/paris.jpg");
+}
+
+.bio, .portfolio, .contact{
+  background-color: #EDEDED;
+  color:#393327;
+  padding: 15px 10%;
+}
+
+h2{
+  font-family: 'Lobster', cursive;
+  font-size: 90px;
+}
+
+.card:hover{
+  -webkit-box-shadow: 4px 4px 5px 0px #393327;
+-moz-box-shadow: 4px 4px 5px 0px #393327;
+box-shadow: 4px 4px 5px 0px #393327;
+}
+
+footer{
+  background-color:#393327;
+  color: #EDEDED;
+  padding: 10px;
+}
+
+.footerText{
+  margin: 0 auto;
+  text-align: center;
+}
