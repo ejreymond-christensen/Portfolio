@@ -1,2 +1,2 @@
 # portfolio
-portfolio for my projects
+portfolio mockup for projects
